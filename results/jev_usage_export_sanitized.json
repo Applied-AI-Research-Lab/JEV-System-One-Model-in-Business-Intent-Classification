@@ -1,0 +1,20 @@
+[
+ {
+  "day": "2026-09-29T07:00:00+00:00",
+  "requests": 26250,
+  "inputTokens": 26055069,
+  "outputTokens": 20762868
+ },
+ {
+  "day": "2026-09-30T07:00:00+00:00",
+  "requests": 11298,
+  "inputTokens": 4059993,
+  "outputTokens": 997012
+ },
+ {
+  "day": "2026-09-30T17:00:00+00:00",
+  "requests": 100444,
+  "inputTokens": 74299970,
+  "outputTokens": 49243266
+ }
+]

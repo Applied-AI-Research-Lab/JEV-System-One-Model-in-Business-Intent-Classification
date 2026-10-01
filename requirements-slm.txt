@@ -1,0 +1,5 @@
+# Only needed to re-run the small open models (Qwen3.5-4B, Gemma-3-4B) on a CUDA GPU.
+# Versions reported in the paper: Unsloth 2026.7.2, Transformers 5.5.0, PyTorch 2.6.0.
+unsloth==2026.7.2
+transformers==5.5.0
+torch==2.6.0

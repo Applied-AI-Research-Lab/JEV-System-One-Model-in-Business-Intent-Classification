@@ -1,0 +1,6 @@
+# Analysis, figures and the three prediction clients (Jev API, Ollama cloud). Python 3.11+.
+numpy>=2.0
+scipy>=1.13
+matplotlib>=3.9
+httpx>=0.28
+typesafe-sdk==0.7.2
